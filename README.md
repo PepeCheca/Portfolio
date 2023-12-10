@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-¡Bienvenido a mi portafolio personal! Este proyecto fue desarrollado utilizando React.js, Vite, y Tailwind para mostrar un resumen de mi experiencia, educación, proyectos, y las herramientas que utilizo.
+¡Bienvenido a mi portafolio personal inspirado en Shaquille Ndunda! Este proyecto fue desarrollado utilizando React.js, Vite, y Tailwind para mostrar un resumen de mi experiencia, educación, proyectos, y las herramientas que utilizo.
 
 ## Contenidos
 
