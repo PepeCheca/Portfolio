@@ -17,7 +17,8 @@ import {
   bestseller,
   protectora,
   ikea,
-  botanico
+  botanico,
+  global
 } from '../assets';
 
 export const navLinks = [
@@ -87,6 +88,13 @@ const technologies = [
 
 const experiences = [
   {
+    title: 'Junior Front-end Developer y Técnico de Soporte',
+    company_name: 'Global Alumni',
+    icon: global,
+    iconBg: '#333333',
+    date: 'Marzo 2024 - Actualidad',
+  },
+  {
     title: 'Store Manager',
     company_name: 'Bestseller Stores Spain',
     icon: bestseller,
@@ -136,7 +144,7 @@ const projects = [
     name: 'WeShare',
     description: 'Proyecto final del bootcamp. Se trata de una API que permite compartir enlaces web.',
     image: weshare,
-    repo: 'https://github.com/PepeCheca/WeShare-FinalProject',
+    demo: 'https://github.com/PepeCheca/WeShare-FinalProject',
   },
   {
     id: 'project-2',

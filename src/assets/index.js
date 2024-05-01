@@ -25,6 +25,7 @@ import foster from './company/foster.png'
 import protectora from './company/protectora.png'
 import ikea from './company/ikea.png'
 import botanico from './company/botanico.png'
+import global from './company/global.png'
 
 import weshare from "./projects/weshare.png";
 import piano from "./projects/piano.png";
@@ -55,6 +56,7 @@ export {
   protectora,
   ikea,
   botanico,
+  global,
   weshare,
   piano,
   cards,
